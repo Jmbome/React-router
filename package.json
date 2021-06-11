@@ -2,7 +2,7 @@
   "name": "course-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Jmbome.github.io/React-router",
+  "homepage": "http://jmbome.github.io/React-router",
   "devDependencies": {
     "react-scripts": "^4.0.3"
   },
