@@ -16,7 +16,7 @@ import Featured from './Featured';
 
 
 const App = () => (
- <HashRouter basename="/React-Router">
+ <HashRouter basename="/React-router">
   <div className="container">
   <Header />
   <Switch>
